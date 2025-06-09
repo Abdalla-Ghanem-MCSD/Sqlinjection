@@ -24,7 +24,7 @@ This project demonstrates the use of **TabNet**, a deep learning model designed 
 
 ## 🔗 Open the Notebook
 
-[Open in Google Colab](https://colab.research.google.com/drive/13-u7de5m9aP1uQn64kOObexqKXYv9OL9?usp=sharing)
+[Open in Google Colab]([https://colab.research.google.com/drive/13-u7de5m9aP1uQn64kOObexqKXYv9OL9?usp=sharing](https://colab.research.google.com/drive/13-u7de5m9aP1uQn64kOObexqKXYv9OL9?usp=sharing))
 
 ---
 
