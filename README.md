@@ -7,6 +7,7 @@ This project demonstrates the use of **TabNet**, a deep learning model designed 
 ## 📁 Project Contents
 
 - `tabnet_model.ipynb`: The main Google Colab notebook containing the full ML workflow
+- `Modified_SQL_Dataset.csv` : Dataset CIC-IDS-Collection
 - `requirements.txt`: (Optional) Dependencies for local use
 - `README.md`: Project overview and documentation
 
