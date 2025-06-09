@@ -35,11 +35,11 @@ To run in Colab:
 
 ## 💻 To run locally:
 
-git clone https://github.com/yourusername/your-repo.git
-cd your-repo
+git clone https://github.com/Abdalla-Ghanem-MCSD/Sqlinjection.git                                   
+cd your-repo                                                            
 pip install -r requirements.txt
 
-## 📊 Example Results
+## ❓ Example Results
 ✅ Accuracy: 0.9864165588615783
 📊 Classification Report:
                precision    recall  f1-score   support
