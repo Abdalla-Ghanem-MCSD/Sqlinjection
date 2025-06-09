@@ -31,5 +31,31 @@ This project demonstrates the use of **TabNet**, a deep learning model designed 
 ## 🧰 Setup Instructions
 
 To run in Colab:
-```python
 !pip install pytorch-tabnet
+
+## 💻 To run locally:
+
+git clone https://github.com/yourusername/your-repo.git
+cd your-repo
+pip install -r requirements.txt
+
+## 📊 Example Results
+✅ Accuracy: 0.9864165588615783
+📊 Classification Report:
+               precision    recall  f1-score   support
+
+           0       0.98      0.99      0.99      3893
+           1       0.99      0.97      0.98      2291
+
+    accuracy                           0.99      6184
+   macro avg       0.99      0.98      0.99      6184
+weighted avg       0.99      0.99      0.99      6184
+
+
+## 📦 Requirements
+pytorch-tabnet
+pandas
+numpy
+scikit-learn
+matplotlib
+seaborn
